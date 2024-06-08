@@ -15,4 +15,5 @@ Summary tables for month-wise sub-category sales
 
 ## Usage
 Run the Streamlit app: streamlit run app.py
+
 Can access in browser using this link: https://superstore-7k78fo5ph59buseunnohud.streamlit.app/
