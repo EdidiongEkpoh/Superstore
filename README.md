@@ -10,8 +10,8 @@ Downloadable CSV files for detailed data analysis
 Summary tables for month-wise sub-category sales
 
 ## Installation
-1. Clone the repository: git clone https://github.com/EdidiongEkpoh/Superstore
-2. Install dependencies: pip install -r requirements.txt
+1. Clone the repository: git clone `https://github.com/EdidiongEkpoh/Superstore.git`
+2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
 Run the Streamlit app: streamlit run app.py
